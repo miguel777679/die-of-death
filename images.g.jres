@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQSABIAAAAAAP////8PAA8AAAAAAP////8PAA8AAAAAAP/u7u4P8A8AAAAAAP/u7u4P/w8AAADu7v////8P/w8AAADu7v///////w8AAAD+7n93d3f//w8AAADu7l9Vd3cPAAAAAADu5V9Vd3cPAAAAAADu7l9Vd3cPAAAAAAD+7l9Vd3cPAAAAAADu7n93d3f//w8AAADu7v////8P/w8AAADu7v////8P/w8AAAAAAP/u7u4P8A8AAAAAAP/u7u4PAA8AAAAAAP////8PAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "banana"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
